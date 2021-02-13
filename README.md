@@ -31,7 +31,7 @@ This **movie_data_analysis.ipynb** file is the Jupyter Notebook that contains th
 
 
 <br><br>
-[PowerPoint Presentation](https://github.com/Analysis-by-Film-Addicts/Movie-Industry-Segmentation-Analysis/blob/Grace/Movie-Industry-Trend-Analysis.pptx)
+[PowerPoint Presentation](https://github.com/Analysis-by-Film-Addicts/Movie-Industry-Segmentation-Analysis/blob/main/Movie%20Industry%20Segmentation%20Analysis.pptx)
 
 This PowerPoint file shows our conclusions of our final analyses, as well as our suggestions to the movie revenue generation & award winnings.
 
