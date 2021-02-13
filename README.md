@@ -41,7 +41,7 @@ This PowerPoint file shows our conclusions of our final analyses, as well as our
 1. If you are producing a movie to **gain higher revenue**, there are several factors that may impact the revenues:
     - Movie Genres: Based on our analysis, whether it is the **global** or **USA** movies, revenues gain most by **Action Movies**. 
     - Movie Release Timeframe: In our analysis, we found that movies released during **national holidays** tend to increase the movie revenues. This logic is considered reliable *internationally*. For example, most revenues are generated during December, the Christmas holidays, and also during October, the Chinese national holidays.
-    - Audience preference: We found that audient preference may have an enhanced impact movie revenues. Based on our analysis, male audience takes up 81% of the total population. This also proves why action movies are the most popular in terms of revenues.
+    - Audience preference: We found that audience preference may have an enhanced impact movie revenues. Based on our analysis, male audience takes up 81% of the total population. This also proves why action movies are the most popular in terms of revenues.
     - Movie Directors: famous directors can be a huge insurance on movie revenues. For example, Steven Spielberg has his total movie revenues of over 10 billion dollars, almost double the second highest director, Anthony Russo.
 2. If you are producing a movie to shoot for **awards**, we used Oscar Awards data for our 
 analyses and hereby suggest the following:
